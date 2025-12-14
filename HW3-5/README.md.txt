@@ -21,4 +21,4 @@ introducing wheel dynamics and control.
 - In PARAMETERS.m there are 3 types of body velocities
 - Straight line, Circle, Pure Spin
 - You can only run one at a time by commenting out other 2. 
-- To get the results of each case we need to do th same one after another
+- To get the results of each case we need to do the same one after another
