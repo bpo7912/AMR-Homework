@@ -34,7 +34,7 @@ This repository contains my AMR homework deliverables:
 
 ### How to run
 1. Open MATLAB, set current folder to the repo root.
-2. Open the Simulink model in `HW3-5/model/` (e.g., `HW3.slx`).
+2. Open the Simulink model in `HW3-5` (`HW3-5.slx`).
 3. Run:
    - `HW3-5/PARAMETERS.m`
    - `HW3-5/Run_SMC.m`
