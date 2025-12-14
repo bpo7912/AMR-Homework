@@ -22,3 +22,4 @@ introducing wheel dynamics and control.
 - Straight line, Circle, Pure Spin
 - You can only run one at a time by commenting out other 2. 
 - To get the results of each case we need to do the same one after another
+- Run_SMC.m will give the required plots in output
