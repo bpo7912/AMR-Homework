@@ -11,7 +11,7 @@ This repository contains my AMR homework deliverables:
 
 - `HW3-5/`
   - `model/` → Simulink model(s) (`.slx`)
-  - `scripts/` → MATLAB scripts (`PARAMETERS.m`, `Run_SMC.m`, `plot.m`)
+  - `scripts/` → MATLAB scripts (`PARAMETERS.m`, `Run_SMC.m`)
   - `outputs/` → plots/screenshots if needed
 - `HW6/`
   - `code/` → MATLAB CBF code (`.m`)
