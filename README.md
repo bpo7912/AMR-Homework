@@ -35,8 +35,8 @@ This repository contains my AMR homework deliverables:
 1. Open MATLAB, set current folder to the repo root.
 2. Open the Simulink model in `HW3-5/model/` (e.g., `HW3.slx`).
 3. Run:
-   - `HW3-5/scripts/PARAMETERS.m`
-   - `HW3-5/scripts/Run_SMC.m`
+   - `HW3-5/PARAMETERS.m`
+   - `HW3-5/Run_SMC.m`
 
 Outputs:
 - Phase portraits for each wheel: `(e_i vs ė_i)`
