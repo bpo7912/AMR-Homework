@@ -1,4 +1,4 @@
-# HW3 – Dynamic Control of 3-Wheel Omni Robot
+# HW3-5: Kinematic Control, Dynamic Control of 3-Wheel Omni Robot & SMC 
 
 ## Description
 This homework extends the kinematic model of a 3-wheel omni robot by
@@ -17,7 +17,7 @@ introducing wheel dynamics and control.
 - PARAMETERS.m : robot and controller parameters
 - Run_SMC.m : simulation + plotting script
 
-##Running the code
+## Running the code
 - In PARAMETERS.m there are 3 types of body velocities
 - Straight line, Circle, Pure Spin
 - You can only run one at a time by commenting out other 2. 
