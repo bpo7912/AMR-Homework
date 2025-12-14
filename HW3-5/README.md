@@ -1,4 +1,4 @@
-# HW3 – Dynamic Control of 3-Wheel Omni Robot
+# HW3-5: Kinematic Control, Dynamic Control of 3-Wheel Omni Robot & SMC 
 
 ## Description
 This homework extends the kinematic model of a 3-wheel omni robot by
