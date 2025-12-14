@@ -1,15 +1,8 @@
-# MATLAB / Simulink
+# MATLAB / Simulink cache & build files
+*.slxc
 slprj/
 *.asv
-*.autosave
-*.slxc
-*.slx.r*
-HW3/
 
-# OS
+# OS junk
 .DS_Store
 Thumbs.db
-
-# Python cache
-__pycache__/
-*.pyc
