@@ -63,6 +63,7 @@ Implements potential field navigation with:
 
 Run:
 - `HW7_Potential_Fields/HW7.py`
+
 Output:
 - animation/video in `HW7_Potential_Fields/HW7_animation.mp4/`
 
