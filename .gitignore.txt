@@ -1,8 +1,0 @@
-# MATLAB / Simulink cache & build files
-*.slxc
-slprj/
-*.asv
-
-# OS junk
-.DS_Store
-Thumbs.db
