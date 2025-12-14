@@ -49,9 +49,9 @@ Outputs:
 Implements a control barrier function to maintain a minimum safe distance from a pedestrian while the robot moves to a goal.
 
 Run:
-- Open and run the MATLAB file in `HW6/code/`
+- Open and run the MATLAB file in `HW6_CBF/HW6.m`
 Output:
-- Saved animation in `HW6/outputs/`
+- Saved animation in `HW6_CBF/HW6_animation.mp4`
 
 ---
 
@@ -61,9 +61,9 @@ Implements potential field navigation with:
 2. A case that demonstrates failure due to a local minimum
 
 Run:
-- `python HW7/code/HW7.py`
+- `HW7_Potential_Fields/HW7.py`
 Output:
-- animation/video in `HW7/outputs/`
+- animation/video in `HW7_Potential_Fields/HW7_animation.mp4/`
 
 ---
 
