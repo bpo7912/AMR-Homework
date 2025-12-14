@@ -16,3 +16,9 @@ introducing wheel dynamics and control.
 - HW3-5.slx : Simulink model
 - PARAMETERS.m : robot and controller parameters
 - Run_SMC.m : simulation + plotting script
+
+##Running the code
+- In PARAMETERS.m there are 3 types of body velocities
+- Straight line, Circle, Pure Spin
+- You can only run one at a time by commenting out other 2. 
+- To get the results of each case we need to do th same one after another
