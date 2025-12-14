@@ -50,6 +50,7 @@ Implements a control barrier function to maintain a minimum safe distance from a
 
 Run:
 - Open and run the MATLAB file in `HW6_CBF/HW6.m`
+
 Output:
 - Saved animation in `HW6_CBF/HW6_animation.mp4`
 
