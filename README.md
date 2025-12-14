@@ -12,12 +12,12 @@ This repository contains my AMR homework deliverables:
 
 - `HW3-5/`
 
-- Model: Simulink model(s) (`HW3-5.slx`),
-- MATLAB scripts: (`PARAMETERS.m`, `Run_SMC.m`),
+- Model: Simulink model(s) (`HW3-5.slx`)
+- MATLAB scripts: (`PARAMETERS.m`, `Run_SMC.m`)
 - Outputs: plots/screenshots if needed.
 - `HW6_CBF/`
-- MATLAB CBF code: (`HW6.m`),
-Animation video: (`HW6_animation.mp4`).
+- MATLAB CBF code: (`HW6.m`)
+- Animation video: (`HW6_animation.mp4`)
 - `HW7_Potential_Fields/`
 - Python potential fields code: (`HW7.py`),
 - Outputs: animation video (`HW7_animation.mp4`).
