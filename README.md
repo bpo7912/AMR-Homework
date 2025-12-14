@@ -1,6 +1,7 @@
-# AMR Homework Submission (HW3–HW7)
+# AMR Homework Submission (HW1–HW7)
 
 This repository contains my AMR homework deliverables:
+- **HW1&HW2:**They are attached in the file AMR-HW-Bhavya.pptx
 - **HW3–HW5:** 3-wheel omni robot kinematics + dynamic wheel model + Sliding Mode Control (SMC) error analysis
 - **HW6:** Control Barrier Function (CBF) navigation around a pedestrian
 - **HW7:** Potential Fields (one successful navigation + one local-minimum failure)
