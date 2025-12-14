@@ -24,7 +24,7 @@ This repository contains my AMR homework deliverables:
 
 ---
 
-## HW3–HW5 (Simulink: Dynamics + SMC)
+## HW3–HW5 (Simulink: Kinematics + Dynamics + SMC)
 
 ### What’s implemented
 - **Kinematics:** wheel speeds → body velocities → world frame → integrated trajectory
